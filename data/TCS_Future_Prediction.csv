@@ -1,0 +1,2 @@
+Company,Last Available Date,Last Available Price,Predicted Direction,UP Probability,DOWN Probability,Model
+TCS,2026-11-23,2460.0,UP,0.50748366,0.49251634,XGBoost

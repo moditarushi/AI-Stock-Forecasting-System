@@ -1,0 +1,2 @@
+Company,Last Available Date,Last Available Price,Predicted Direction,UP Probability,DOWN Probability,Model
+SBI,2026-08-14,1067.699951171875,UP,0.6543932,0.3456068,XGBoost

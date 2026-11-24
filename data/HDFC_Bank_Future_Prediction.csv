@@ -1,0 +1,2 @@
+Company,Last Available Date,Last Available Price,Predicted Direction,UP Probability,DOWN Probability,Model
+HDFC_Bank,2026-08-14,727.0,DOWN,0.23043609,0.7695639,XGBoost

@@ -1,0 +1,2 @@
+Company,Last Available Date,Last Available Price,Predicted Direction,UP Probability,DOWN Probability,Model
+Reliance,2026-11-23,1351.0,UP,0.8418078,0.15819222,XGBoost

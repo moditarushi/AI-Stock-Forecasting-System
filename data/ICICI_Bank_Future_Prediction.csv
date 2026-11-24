@@ -1,0 +1,2 @@
+Company,Last Available Date,Last Available Price,Predicted Direction,UP Probability,DOWN Probability,Model
+ICICI_Bank,2026-08-14,1417.0,DOWN,0.3079047,0.6920953,XGBoost

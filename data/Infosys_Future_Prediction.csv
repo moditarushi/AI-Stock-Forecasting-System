@@ -1,0 +1,2 @@
+Company,Last Available Date,Last Available Price,Predicted Direction,UP Probability,DOWN Probability,Model
+Infosys,2026-08-14,1169.199951171875,DOWN,0.4949318,0.5050682,XGBoost

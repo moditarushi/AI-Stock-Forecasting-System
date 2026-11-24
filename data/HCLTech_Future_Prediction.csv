@@ -1,0 +1,2 @@
+Company,Last Available Date,Last Available Price,Predicted Direction,UP Probability,DOWN Probability,Model
+HCLTech,2026-08-14,1360.0,UP,0.5209351,0.47906488,XGBoost
